@@ -1,4 +1,5 @@
 {
   "jshint.enable": false,
-  "deepscan.enable": false
+  "deepscan.enable": false,
+  "deepscan.ignoreConfirmWarning": true
 }

@@ -1,5 +1,8 @@
 {
   "jshint.enable": false,
   "deepscan.enable": false,
-  "deepscan.ignoreConfirmWarning": true
+  "deepscan.ignoreConfirmWarning": true,
+  "cSpell.words": [
+    "levelitem"
+  ]
 }
